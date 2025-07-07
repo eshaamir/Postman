@@ -1,4 +1,4 @@
-import Postman from "./components/postman";
+import Postman from "./components/Postman";
 
 function App() {
   return (
