@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import axios from "axios";
-import prettyBytes from "pretty-bytes";
 
 function Postman() {
   const [responseDetails, setResponseDetails] = useState({
