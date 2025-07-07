@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
 import prettyBytes from "pretty-bytes";
-// import "react-toastify/dist/ReactToastify.css";
 
 function Postman() {
   const [responseDetails, setResponseDetails] = useState({
